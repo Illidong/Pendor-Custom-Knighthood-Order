@@ -30,4 +30,10 @@
 		"percentStatBonus":{"science": 66},
                 "requiredTech": "Animal Husbandry"
         },
+{
+		"name": "Mobilize Knighthood Order",
+		"isWonder": true,
+		"cost": 1,
+		"uniques": ["Free [Custom Knight] unit appears","Free [Custom Sergeant] unit appears","Unsellable","Not displayed as an available construction without [Custom Knighthood Order] building","Will not be displayed in Civilopedia"],
+	},
 ]
